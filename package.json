@@ -1,0 +1,26 @@
+{
+  "name": "Newspaper-General-Admin",
+  "version": "1.0.0",
+  "description": "My good Nuxt.js project",
+  "author": "efradxxd",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "vue2-editor": "^2.6.6",
+    "vuetify": "^1.5.5",
+    "vuetify-loader": "^1.2.1",
+    "yimo-vue-editor": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
